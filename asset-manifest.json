@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kurkmin/static/css/main.073c9b0a.css",
+    "main.js": "/kurkmin/static/js/main.897d40b8.js",
+    "static/js/787.face434d.chunk.js": "/kurkmin/static/js/787.face434d.chunk.js",
+    "static/media/logo.svg": "/kurkmin/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/kurkmin/index.html",
+    "main.073c9b0a.css.map": "/kurkmin/static/css/main.073c9b0a.css.map",
+    "main.897d40b8.js.map": "/kurkmin/static/js/main.897d40b8.js.map",
+    "787.face434d.chunk.js.map": "/kurkmin/static/js/787.face434d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.897d40b8.js"
+  ]
+}
